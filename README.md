@@ -12,6 +12,8 @@ and an about menu.
 
 On entering an incorrect expression a pop-up window appears stating the same.
 </pre>
+<br>
+![Calculator-Pic](Calculator-Pic.png)
 
 
 
